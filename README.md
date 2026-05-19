@@ -10,7 +10,7 @@
 
 ## *That’s That Me Espresso* (Sobre o Projeto)
 
-Bem-vindo ao meu repositório de **LOPAL (Lógica de Programação e Algoritmos)**! Aqui armazeno meus desafios de lógica, onde transformo cafeína em código funcional. Assim como a Sabrina domina os charts, eu estou aqui dominando as estruturas de repetição, arrays e a manipulação de dados complexos.
+Bem-vindo ao meu repositório de **LOPAL (Lógica de Programação e Algoritmos)**! Aqui armazeno meus desafios de lógica, onde transformo cafeína em código funcional. Assim como a Sabrina domina os charts, eu estou aqui dominando a manipulação de estruturas de dados e coleções de objetos em JavaScript.
 
 > "I'm working late, 'cause I'm a coder." ☕💻
 
@@ -23,21 +23,16 @@ As ferramentas que estou usando para criar algoritmos sem nenhum *Nonsense*:
 | Tecnologia | Finalidade | Cor |
 | :--- | :--- | :--- |
 | **JavaScript** | Lógica de programação, Objetos e Arrays | 🟪 |
-| **Estruturas de Repetição** | Laços `while` e `do...while` para validação | ⬜ |
 | **Git & GitHub** | Versionamento e Portfólio | ⬛ |
-| **HTML5 / Console** | Interface e Debug para execução dos scripts | 🟪 |
+| **Console / Terminal** | Interface e Debug para execução dos scripts | 🟪 |
 
 ---
 
 ## 📁 Estrutura dos Algoritmos (Desafios LOPAL)
 
-Para manter tudo organizado e com a lógica em dia, seguindo os exercícios propostos:
+Para manter tudo organizado e com a lógica em dia, seguindo o exercício proposto:
 
-* **`ex01/`** - **Manipulação de Estrutura de Alunos:** Criação de um Array composto por objetos para armazenamento de dados cadastrais (Nome, Idade e Disciplinas Preferidas) com lógica de indexação para acesso e leitura de propriedades específicas do primeiro e último registro.
-* **`ex02/`** - **Soma com Confirmação:** Acumulador de números inteiros que pergunta ao usuário se ele deseja continuar inserindo dados antes de exibir o total.
-* **`ex03/`** - **Jogo de Adivinhação:** Um jogo interativo com número secreto e contador de tentativas para testar a persistência do usuário.
-* **`ex04/`** - **Validação de Cadastro:** Regra de negócio que valida nomes de produtos, garantindo que tenham pelo menos 3 caracteres antes de confirmar o cadastro.
-* **`ex05/`** - **Sistema de Cafeteria:** Menu interativo completo com soma de valores, tratamento de opções inválidas e encerramento de pedido.
+* **`ex01/`** - **Manipulação de Estrutura de Alunos:** Criação de um Array composto por objetos para armazenamento de dados cadastrais (Nome, Idade e Disciplina Preferida), aplicando a lógica de indexação para acessar e ler propriedades específicas diretamente do primeiro e do último registro da lista.
 
 ---
 
